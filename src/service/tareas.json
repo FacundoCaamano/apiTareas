@@ -1,0 +1,48 @@
+[
+    {
+        "titulo": "Tarea 1",
+        "descripcion": "Tarea 1",
+        "prioridad": "Alta",
+        "categoria": "compras",
+        "estado": "Pendiente",
+        "fecha": "9/12/2023, 20:12:16",
+        "id": 1
+    },
+    {
+        "titulo": "Tarea 2",
+        "descripcion": "Tarea 2",
+        "prioridad": "Alta",
+        "categoria": "compras",
+        "estado": "Pendiente",
+        "fecha": "9/12/2023, 20:12:16",
+        "id": 3223
+    },
+    {
+        "titulo": "Tarea 3",
+        "descripcion": "Tarea 3",
+        "prioridad": "Alta",
+        "categoria": "compras",
+        "estado": "Pendiente",
+        "fecha": "9/12/2023, 20:12:16",
+        "id": 34
+    },
+    {
+        "titulo": "Tarea 4",
+        "descripcion": "Tarea 4",
+        "prioridad": "Alta",
+        "categoria": "trabajo",
+        "estado": "Pendiente",
+        "fecha": "9/12/2023, 20:12:16",
+        "id": 3
+    },
+    {
+        "titulo": "Tarea 4",
+        "descripcion": "Tarea 1",
+        "prioridad": "Alta",
+        "categoria": "trabajo",
+        "estado": "Pendiente",
+        "fecha": "9/12/2023, 20:12:16",
+        "id": 654
+    }
+
+]
